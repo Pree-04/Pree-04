@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pree-04
-- 👀 I’m interested in coding, space science, music, web series, cooking and baking.
-- 🌱 I’m currently pursuing AI ML engineering & eager to learn ethical hacking.
-- 💞️ I’m looking to collaborate on various ML and Deep Learning projects.
-- 📫 How to reach me- preethacandy@gmail.com
+- 👀 My interests are coding, space science, music, web series, cooking and baking.
+- 🌱 I’m currently pursuing Bachelor's degree in CSE-AI ML specialization course.
+- 💞️ I am looking forward to collaborate on various ML and Deep Learning projects.
+- 🥇 I'm an aspiring Machine Learning engineer and student developer.
+- 📫 How to reach me- preetha442004@gmail.com
 
 <!---
 Pree-04/Pree-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
