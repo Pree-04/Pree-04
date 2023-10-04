@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pree-04
 - 👀 I’m interested in coding, space science, music, web series, cooking and baking.
 - 🌱 I’m currently pursuing AI ML engineering & eager to learn ethical hacking.
-- 💞️ I’m looking to collaborate on AI in space exploration.
+- 💞️ I’m looking to collaborate on various ML and Deep Learning projects.
 - 📫 How to reach me- preethacandy@gmail.com
 
 <!---
